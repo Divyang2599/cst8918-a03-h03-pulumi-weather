@@ -23,7 +23,7 @@ Azure Container Registry (ACR) — stores Docker image
 
 ---
 
-## Part 1 — Lab A03
+## Part 1 - Lab A03
 
 **Goal:** Deploy the weather app to Azure using Pulumi.
 
@@ -47,7 +47,7 @@ pulumi destroy  # tear down all resources
 
 ---
 
-## Part 2 — Hybrid H03
+## Part 2 - Hybrid H03
 
 **Goal:** Add Redis caching and proper secret management.
 
