@@ -73,7 +73,7 @@ http://cst8918-a03-loda0002.canadacentral.azurecontainer.io:80
 | feat(infrastructure): complete Part 1 | Divyang + Diniz | Pulumi config, ACR, ACI deployment |
 | feat(infrastructure): add Redis cache and encrypt API key | Divyang | Azure Cache for Redis, secret config |
 | feat(app): add Redis client and update weather service | Diniz | redis-connection.ts, open-weather-service.ts |
-| chore: install redis npm package | Diniz | npm install redis |
+| chore: install redis npm package | Divyang | npm install redis |
 | feat(infrastructure): complete Part 2 deployment | Divyang + Diniz | v0.3.0 with Redis |
 
 ---
